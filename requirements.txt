@@ -1,9 +1,7 @@
-tensorflow
-keras
+opencv-python
 pandas
 numpy
-jupyter
-notebook
+matplotlib
 tqdm
-opencv-contrib-python
 scikit-learn
+tensorflow
